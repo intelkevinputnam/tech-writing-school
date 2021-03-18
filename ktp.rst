@@ -3,7 +3,7 @@ About Kevin
 
 .. _ktp_quote:
 
-Favorite Quote:
+Favorite Quote
 ---------------
 
    I don't know. I'm making this up as I **go**.
