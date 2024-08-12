@@ -1,27 +1,24 @@
-About Kevin
+About Liam
 ###########
 
-.. _ktp_quote:
+.. _liam_quote:
 
 Favorite Quote
 ---------------
 
-   I don't know. I'm making this up as I **go**.
+   If one plays good music, people don't listen and if one plays bad music people don't talk.
 
-   -- *Indiana Jones*
+   -- *Oscar Wilde*
 
-.. _ktp_homes:
+.. _liam_homes:
 
 Places I've lived
 -----------------
 
-#. Virginia
-#. California
-#. Florida
-#. Belgium
-#. Oregon
+#. Dublin
+#. Kildare
 
-.. _ktp_funwords:
+.. _liam_funwords:
 
 Fun words
 ---------
@@ -32,7 +29,7 @@ proclivity
 fastidious
    very attentive to and concerned about accuracy and detail.
 
-.. _ktp_links:
+.. _liam_links:
 
 Links
 -----
