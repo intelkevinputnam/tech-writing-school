@@ -18,7 +18,6 @@ Places I've lived
 #. Dublin
 #. Kildare
 #. Place 3
-#. Item 4
 
 .. _liam_funwords:
 
